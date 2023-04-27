@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhang</h1>
+<h1 align="center">Hi 👋, I'm Lumpenstein</h1>
 <h3 align="center">A passionate software developer from Luxembourg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumpenstein&label=Profile%20views&color=0e75b6&style=flat" alt="lumpenstein" /> </p>
